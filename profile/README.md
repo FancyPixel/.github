@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./logo.png" alt="logo" width="100%" />
+  <img src="./profile/logo.png" alt="logo" width="100%" />
 </p>
