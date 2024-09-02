@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/logo.png" alt="logo" width="100%" />
+  <img src="https://github.com/FancyPixel/.github/blob/master/profile/logo.png?raw=true" alt="logo" width="100%" />
 </p>
 
 ## 👋 Hi there!
